@@ -1,0 +1,51 @@
+body{background-color: #DEE5E5}
+h1{
+	font-size: 60px;	
+	text-align: center;
+	font-family: 'Varela Round', sans-serif;
+}
+.lighter-text{
+	color: #6A7062;
+}
+.smaller-text {
+	font-size: 35px
+}
+p{
+	color: #17B890;
+	text-decoration: none;
+	text-align: center;
+}
+img{
+	width: 300px;
+    height: auto;
+    border: rgba(50, 50, 50, 0) 1px solid;
+    margin: 5px;
+    border-radius: 30%;
+}
+.smaller-pics {
+	width: 200px;
+	border-radius: 50%
+}
+h2{
+	text-align: center;
+	font-family: cursive;
+}
+p{
+	text-align: center;
+	font-family: cursive;
+}
+.big-flex-container {
+	justify-content: space-between;
+	align-items: center;
+}
+ul{list-style: none;
+	display: flex;
+	padding: 0px;
+}
+.other-flex-container {
+	justify-content: center;
+	display: flex;
+	margin: 0px;
+}
+
+#
